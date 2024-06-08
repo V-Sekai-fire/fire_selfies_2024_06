@@ -29,9 +29,6 @@ jobs:
           name: gh-pages
       - name: Deploy to Github Pages 🚀
         uses: actions/deploy-pages@v1
-        with:
-          artifact_name: gh-pages
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Delete artifact 🗑️
         uses: geekyeggo/delete-artifact@v2
         with:
