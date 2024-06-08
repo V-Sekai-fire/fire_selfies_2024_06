@@ -1,3 +1,3 @@
-# Fire's Todo Gallery
+# Fire's Work Gallery
 
-Fire's Todo Gallery 2023-present
+Fire's Work Gallery 2023-present
