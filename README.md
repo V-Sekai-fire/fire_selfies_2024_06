@@ -1,3 +1,3 @@
-# Fire's Selfies Gallery
+# Fire's Todo Gallery
 
-Fire's Selfies Gallery 2023-present
+Fire's Todo Gallery 2023-present
